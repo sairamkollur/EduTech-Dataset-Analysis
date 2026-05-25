@@ -1,0 +1,201 @@
+StudentID,Name,Age,Gender,Department,Year,AttendancePercent,MathScore,ScienceScore,EnglishScore,CGPA,ScholarshipHolder,PartTimeJob,Grade,City
+1001,Student_1,23,Male,Biology,2,76.0,80.0,88,79,9.65,No,No,B,Bangalore
+1002,Student_2,20,Female,Chemistry,4,88.6,68.0,43,91,,No,No,A,Hyderabad
+1003,Student_3,21,Male,Physics,3,,80.0,38,46,7.21,No,Yes,B,Mumbai
+1004,Student_4,23,Female,Chemistry,3,92.6,99.0,69,32,9.3,No,No,C,Bangalore
+1005,Student_5,19,Female,Biology,1,77.6,35.0,95,61,4.5,No,Yes,C,Delhi
+1006,Student_6,24,Male,Mathematics,4,78.0,96.0,54,42,8.95,No,No,D,Pune
+1007,Student_7,21,Male,Chemistry,2,93.8,36.0,51,97,6.15,No,No,B,Bangalore
+1008,Student_8,21,Female,Mathematics,3,70.2,80.0,33,43,5.93,No,Yes,A,Hyderabad
+1009,Student_9,23,Male,Physics,3,56.7,71.0,55,40,9.86,No,No,D,Delhi
+1010,Student_10,18,Male,Computer Science,2,,,87,85,5.21,Yes,No,C,Mumbai
+1011,Student_11,19,Male,Physics,2,87.8,44.0,58,96,8.16,No,No,B,Delhi
+1012,Student_12,23,Male,Chemistry,3,81.0,58.0,66,58,8.93,Yes,Yes,C,Delhi
+1013,Student_13,19,Female,Mathematics,3,85.2,62.0,99,38,4.25,No,No,C,Chennai
+1014,Student_14,19,Female,Mathematics,2,60.6,56.0,47,96,8.02,No,No,C,Delhi
+1015,Student_15,24,Female,Biology,3,56.8,65.0,71,54,9.71,No,Yes,C,Delhi
+1016,Student_16,21,Female,Mathematics,1,50.7,,70,71,4.75,No,Yes,B,Bangalore
+1017,Student_17,20,Female,Biology,1,67.5,67.0,67,38,9.38,No,No,B,Mumbai
+1018,Student_18,24,Male,Computer Science,2,79.5,86.0,63,69,7.57,No,Yes,B,Bangalore
+1019,Student_19,24,Female,Chemistry,4,69.6,56.0,46,54,7.7,No,No,C,
+1020,Student_20,19,Female,Biology,2,71.9,84.0,66,34,7.68,No,No,C,Hyderabad
+1021,Student_21,22,Female,Computer Science,2,95.2,62.0,54,40,5.79,Yes,No,C,Bangalore
+1022,Student_22,21,Female,Mathematics,4,67.4,97.0,56,88,9.61,Yes,Yes,A,Chennai
+1023,Student_23,18,Male,Mathematics,4,75.7,95.0,86,67,9.68,No,No,C,
+1024,Student_24,24,Male,Computer Science,4,89.2,39.0,60,34,7.75,Yes,Yes,C,Hyderabad
+1025,Student_25,20,Male,Mathematics,1,69.8,34.0,35,77,8.7,No,Yes,C,Pune
+1026,Student_26,22,Male,Computer Science,3,81.1,67.0,69,47,7.67,No,No,C,Mumbai
+1027,Student_27,22,Female,Biology,1,93.1,42.0,41,99,6.91,No,Yes,C,Mumbai
+1028,Student_28,18,Female,Biology,3,97.5,60.0,82,66,7.96,No,Yes,B,Bangalore
+1029,Student_29,24,Male,Computer Science,1,57.4,76.0,39,89,7.32,No,No,B,Bangalore
+1030,Student_30,20,Female,Biology,3,96.3,81.0,74,77,7.58,No,Yes,A,Pune
+1031,Student_31,21,Male,Biology,1,74.6,85.0,46,57,8.7,No,Yes,B,Bangalore
+1032,Student_32,17,Male,Biology,4,,44.0,55,98,6.89,No,No,C,Mumbai
+1033,Student_33,20,Male,Physics,2,73.0,58.0,91,69,4.24,No,No,C,Delhi
+1034,Student_34,18,Male,Chemistry,1,99.0,37.0,75,74,4.98,Yes,No,A,Chennai
+1035,Student_35,22,Female,Mathematics,3,74.6,34.0,93,91,6.63,No,Yes,A,Delhi
+1036,Student_36,21,Male,Physics,4,,58.0,31,87,8.35,No,No,C,Delhi
+1037,Student_37,20,Female,Biology,1,81.7,76.0,83,96,7.56,No,Yes,A,
+1038,Student_38,17,Female,Computer Science,1,62.0,97.0,94,85,7.9,Yes,Yes,A,Delhi
+1039,Student_39,17,Male,Biology,4,53.8,74.0,80,69,6.88,No,No,A,
+1040,Student_40,19,Other,Chemistry,1,56.4,31.0,82,69,7.69,Yes,Yes,A,Hyderabad
+1041,Student_41,19,Other,Biology,2,56.4,56.0,65,62,5.97,Yes,Yes,A,Bangalore
+1042,Student_42,23,Male,Computer Science,1,57.6,65.0,55,35,6.82,No,No,B,Hyderabad
+1043,Student_43,18,Female,Chemistry,2,56.9,,58,48,8.47,No,No,B,Chennai
+1044,Student_44,24,Male,Biology,2,82.0,55.0,50,69,9.23,No,No,D,Bangalore
+1045,Student_45,20,Male,Chemistry,4,59.1,72.0,40,88,6.6,No,Yes,B,Delhi
+1046,Student_46,20,Male,Mathematics,1,67.3,56.0,69,88,4.26,No,Yes,C,Chennai
+1047,Student_47,24,Female,Mathematics,4,94.8,98.0,40,77,4.97,No,Yes,A,Bangalore
+1048,Student_48,23,Female,Biology,1,73.7,49.0,65,70,4.13,Yes,Yes,A,Pune
+1049,Student_49,22,Male,Chemistry,1,83.4,40.0,88,42,7.92,No,No,C,Pune
+1050,Student_50,22,Male,Computer Science,3,58.6,67.0,68,74,5.99,No,No,A,Pune
+1051,Student_51,23,Female,Biology,1,59.6,35.0,83,82,7.25,No,No,B,Pune
+1052,Student_52,22,Male,Mathematics,4,52.0,,84,71,6.96,No,No,B,Delhi
+1053,Student_53,19,Male,Mathematics,2,58.4,76.0,53,92,4.49,No,No,C,Hyderabad
+1054,Student_54,20,Female,Biology,1,63.9,75.0,51,56,6.42,Yes,No,A,Bangalore
+1055,Student_55,23,Other,Chemistry,3,58.9,41.0,98,67,5.32,No,Yes,B,Delhi
+1056,Student_56,20,Male,Mathematics,4,54.4,42.0,85,89,6.51,No,No,C,Pune
+1057,Student_57,24,Female,Chemistry,1,56.0,91.0,62,36,5.22,Yes,No,A,Hyderabad
+1058,Student_58,17,Female,Mathematics,4,,89.0,65,34,9.04,Yes,Yes,C,Chennai
+1059,Student_59,19,Male,Mathematics,3,60.3,72.0,49,74,5.05,No,Yes,C,Chennai
+1060,Student_60,21,Female,Physics,3,,97.0,91,87,9.76,Yes,No,F,Chennai
+1061,Student_61,19,Male,Mathematics,4,75.2,34.0,55,60,6.5,No,Yes,A,Pune
+1062,Student_62,23,Female,Computer Science,1,84.5,66.0,95,52,9.08,No,Yes,C,Chennai
+1063,Student_63,21,Female,Biology,2,52.0,60.0,69,71,7.77,Yes,No,B,Mumbai
+1064,Student_64,17,Female,Biology,3,90.0,38.0,46,39,8.41,No,No,B,Bangalore
+1065,Student_65,23,Male,Chemistry,1,81.4,80.0,30,61,8.61,No,No,A,Bangalore
+1066,Student_66,18,Female,Mathematics,1,54.1,58.0,90,82,7.03,No,No,C,Pune
+1067,Student_67,20,Male,Computer Science,2,93.7,69.0,72,59,7.26,Yes,Yes,A,Mumbai
+1068,Student_68,17,Male,Chemistry,3,96.0,70.0,71,68,7.08,Yes,No,B,Delhi
+1069,Student_69,20,Male,Physics,3,53.1,40.0,54,60,7.53,No,Yes,A,Delhi
+1070,Student_70,22,Female,Chemistry,1,63.8,52.0,68,31,4.18,No,No,C,Chennai
+1071,Student_71,18,Female,Chemistry,1,90.3,30.0,64,41,6.37,No,No,C,Hyderabad
+1072,Student_72,18,Male,Mathematics,2,87.4,75.0,32,68,7.64,No,Yes,C,Delhi
+1073,Student_73,17,Female,Physics,2,59.2,50.0,73,95,7.59,No,Yes,B,Hyderabad
+1074,Student_74,18,Male,Chemistry,3,60.5,65.0,80,42,8.76,Yes,Yes,A,Bangalore
+1075,Student_75,21,Female,Computer Science,4,68.5,83.0,41,75,7.93,No,Yes,C,Hyderabad
+1076,Student_76,18,Male,Computer Science,3,74.2,86.0,48,56,9.95,No,Yes,B,Bangalore
+1077,Student_77,20,Female,Biology,1,,30.0,73,46,5.7,No,No,A,Mumbai
+1078,Student_78,20,Male,Physics,3,68.4,92.0,88,89,6.15,No,No,C,Mumbai
+1079,Student_79,23,Female,Physics,4,73.1,83.0,78,93,6.3,Yes,Yes,F,Pune
+1080,Student_80,20,Male,Biology,2,87.4,84.0,90,64,,No,Yes,C,Pune
+1081,Student_81,23,Male,Chemistry,4,51.8,69.0,46,99,9.02,No,Yes,C,Chennai
+1082,Student_82,20,Male,Physics,4,62.6,44.0,86,59,5.41,No,No,F,Delhi
+1083,Student_83,21,Female,Computer Science,4,85.7,50.0,84,92,8.66,No,Yes,A,Chennai
+1084,Student_84,24,Female,Computer Science,2,94.8,76.0,76,57,6.43,No,No,B,Bangalore
+1085,Student_85,23,Male,Mathematics,4,75.6,82.0,41,89,7.61,No,No,F,Chennai
+1086,Student_86,19,Female,Physics,4,76.6,38.0,91,66,7.8,Yes,No,A,Hyderabad
+1087,Student_87,22,Female,Chemistry,4,55.4,81.0,37,51,6.24,No,No,C,Bangalore
+1088,Student_88,17,Female,Biology,1,72.4,86.0,50,97,,Yes,Yes,B,Pune
+1089,Student_89,20,Female,Biology,4,76.6,55.0,99,49,6.48,Yes,No,B,Mumbai
+1090,Student_90,18,Male,Chemistry,2,62.1,70.0,54,97,4.41,No,Yes,C,Pune
+1091,Student_91,24,Male,Mathematics,4,63.5,64.0,41,93,6.62,No,Yes,D,Delhi
+1092,Student_92,20,Female,Biology,4,68.9,92.0,44,46,4.58,No,No,C,Bangalore
+1093,Student_93,18,Female,Physics,2,51.0,54.0,88,41,6.43,Yes,No,A,Bangalore
+1094,Student_94,22,Female,Mathematics,4,66.1,67.0,55,51,7.56,No,No,D,Hyderabad
+1095,Student_95,22,Male,Physics,2,,31.0,55,46,7.48,Yes,Yes,A,Delhi
+1096,Student_96,22,Male,Computer Science,4,66.4,36.0,76,39,7.98,Yes,Yes,B,Mumbai
+1097,Student_97,18,Female,Mathematics,2,56.0,63.0,61,94,4.57,No,No,B,Bangalore
+1098,Student_98,20,Female,Biology,4,94.5,46.0,39,51,7.91,Yes,Yes,B,Bangalore
+1099,Student_99,22,Female,Mathematics,4,79.7,72.0,45,79,5.87,No,No,B,Hyderabad
+1100,Student_100,21,Female,Mathematics,1,,88.0,46,43,,Yes,No,D,Chennai
+1101,Student_101,23,Female,Mathematics,1,89.5,80.0,52,93,9.15,Yes,No,C,Mumbai
+1102,Student_102,18,Male,Mathematics,4,74.9,,55,76,4.05,Yes,Yes,C,Pune
+1103,Student_103,18,Male,Physics,4,54.3,53.0,36,58,7.53,No,No,A,Delhi
+1104,Student_104,20,Female,Computer Science,3,,54.0,43,65,7.59,No,Yes,D,Bangalore
+1105,Student_105,18,Female,Chemistry,2,79.3,81.0,36,81,6.38,No,No,D,Bangalore
+1106,Student_106,18,Male,Mathematics,3,87.3,99.0,38,36,5.42,No,No,C,Pune
+1107,Student_107,22,Male,Biology,1,71.6,62.0,77,58,5.41,No,No,A,Mumbai
+1108,Student_108,20,Female,Mathematics,1,56.4,78.0,88,40,9.3,Yes,Yes,A,Chennai
+1109,Student_109,22,Male,Biology,1,64.2,58.0,68,62,6.65,No,No,A,Bangalore
+1110,Student_110,23,Male,Physics,1,68.2,92.0,47,35,5.99,No,No,A,Mumbai
+1111,Student_111,24,Female,Biology,4,82.3,51.0,88,61,6.69,No,Yes,B,Pune
+1112,Student_112,23,Female,Chemistry,1,78.5,55.0,46,80,,No,Yes,D,Hyderabad
+1113,Student_113,24,Female,Computer Science,4,67.8,57.0,43,87,4.87,No,No,B,Chennai
+1114,Student_114,22,Male,Biology,4,99.3,78.0,60,55,6.7,No,No,A,Delhi
+1115,Student_115,23,Female,Biology,1,80.3,,53,75,7.53,Yes,No,B,Bangalore
+1116,Student_116,20,Male,Computer Science,1,61.9,49.0,89,58,9.69,No,Yes,A,Mumbai
+1117,Student_117,17,Male,Chemistry,2,55.1,92.0,74,33,5.52,No,Yes,A,Hyderabad
+1118,Student_118,22,Female,Mathematics,3,57.6,90.0,32,42,6.16,No,No,B,Delhi
+1119,Student_119,24,Female,Biology,1,62.3,78.0,66,68,6.28,No,Yes,B,Mumbai
+1120,Student_120,21,Female,Computer Science,2,58.0,30.0,72,44,7.63,No,No,C,Mumbai
+1121,Student_121,24,Female,Physics,2,59.3,42.0,69,58,6.14,No,No,F,Delhi
+1122,Student_122,21,Female,Computer Science,3,64.3,80.0,84,58,7.2,No,No,B,Hyderabad
+1123,Student_123,18,Male,Physics,4,58.7,85.0,68,61,8.69,No,No,B,Pune
+1124,Student_124,23,Male,Chemistry,1,94.8,91.0,44,31,8.23,No,No,C,Hyderabad
+1125,Student_125,21,Male,Mathematics,3,54.0,61.0,33,76,6.68,Yes,Yes,B,Chennai
+1126,Student_126,24,Male,Computer Science,1,76.2,59.0,54,51,9.19,No,No,A,Bangalore
+1127,Student_127,18,Other,Biology,2,70.5,58.0,42,56,7.35,Yes,No,D,Delhi
+1128,Student_128,17,Male,Chemistry,2,99.1,78.0,62,96,7.24,No,No,A,Pune
+1129,Student_129,20,Female,Computer Science,4,55.6,74.0,45,85,4.21,No,Yes,C,Delhi
+1130,Student_130,20,Female,Biology,2,69.9,59.0,71,50,,Yes,No,B,Delhi
+1131,Student_131,20,Female,Computer Science,2,98.5,45.0,95,76,4.74,No,Yes,B,Hyderabad
+1132,Student_132,21,Female,Physics,3,93.3,69.0,84,88,5.39,Yes,No,B,Bangalore
+1133,Student_133,17,Female,Computer Science,1,90.9,48.0,71,35,4.31,Yes,No,C,Chennai
+1134,Student_134,21,Female,Computer Science,1,62.9,47.0,63,48,7.84,No,No,A,Mumbai
+1135,Student_135,23,Male,Computer Science,3,58.5,30.0,59,86,5.35,No,Yes,A,Mumbai
+1136,Student_136,21,Female,Chemistry,4,83.4,76.0,42,98,5.08,No,No,C,Delhi
+1137,Student_137,17,Male,Computer Science,1,96.5,95.0,42,32,4.53,No,No,B,Bangalore
+1138,Student_138,17,Male,Biology,2,77.8,67.0,47,30,4.62,No,Yes,A,Pune
+1139,Student_139,23,Female,Physics,1,78.6,80.0,61,87,7.51,No,Yes,D,Hyderabad
+1140,Student_140,17,Male,Physics,2,64.0,92.0,68,67,8.13,Yes,Yes,B,Bangalore
+1141,Student_141,24,Female,Computer Science,4,88.5,33.0,75,44,6.38,No,Yes,C,Bangalore
+1142,Student_142,17,Female,Chemistry,3,59.4,30.0,58,63,6.88,No,No,C,Hyderabad
+1143,Student_143,20,Female,Chemistry,1,66.2,37.0,91,90,8.12,No,No,C,Delhi
+1144,Student_144,24,Male,Biology,3,71.3,58.0,91,64,4.1,Yes,No,B,Bangalore
+1145,Student_145,24,Male,Computer Science,1,75.4,84.0,86,93,5.94,No,Yes,F,Mumbai
+1146,Student_146,23,Female,Physics,2,62.1,32.0,45,54,9.84,No,Yes,A,Hyderabad
+1147,Student_147,19,Male,Chemistry,3,55.7,,85,53,7.48,No,No,C,Pune
+1148,Student_148,19,Other,Computer Science,1,80.5,39.0,39,41,5.53,Yes,Yes,A,Chennai
+1149,Student_149,17,Other,Chemistry,2,64.4,63.0,59,47,7.13,No,No,B,Delhi
+1150,Student_150,24,Female,Chemistry,3,79.1,84.0,54,44,6.06,No,No,B,Hyderabad
+1151,Student_151,19,Male,Physics,3,57.7,61.0,34,56,7.19,No,No,D,Chennai
+1152,Student_152,19,Male,Mathematics,1,74.1,79.0,94,89,4.75,No,No,F,Chennai
+1153,Student_153,17,Female,Biology,1,76.6,36.0,78,75,4.8,Yes,Yes,A,Pune
+1154,Student_154,19,Male,Biology,1,52.6,37.0,32,46,,No,Yes,A,Bangalore
+1155,Student_155,21,Male,Physics,2,,94.0,74,82,9.64,Yes,Yes,C,Pune
+1156,Student_156,18,Female,Chemistry,1,56.7,86.0,43,37,8.4,No,No,B,Bangalore
+1157,Student_157,23,Female,Computer Science,3,53.2,96.0,59,56,4.97,No,Yes,A,Bangalore
+1158,Student_158,18,Female,Chemistry,3,99.5,88.0,97,75,5.13,Yes,Yes,C,Hyderabad
+1159,Student_159,17,Female,Physics,1,66.1,,47,79,8.38,No,No,B,Hyderabad
+1160,Student_160,20,Male,Biology,1,90.5,96.0,91,32,4.94,Yes,Yes,F,Delhi
+1161,Student_161,23,Female,Chemistry,4,62.7,80.0,66,93,5.41,Yes,Yes,A,Bangalore
+1162,Student_162,17,Other,Biology,3,84.1,37.0,54,73,9.78,No,Yes,B,Chennai
+1163,Student_163,24,Male,Computer Science,2,88.0,63.0,77,82,5.53,No,No,B,Mumbai
+1164,Student_164,20,Female,Biology,4,79.8,64.0,94,53,7.97,No,No,C,Delhi
+1165,Student_165,18,Female,Biology,1,,61.0,82,89,9.87,No,No,B,
+1166,Student_166,17,Female,Mathematics,1,70.6,75.0,44,32,6.25,Yes,Yes,C,Pune
+1167,Student_167,24,Female,Mathematics,3,67.4,45.0,78,49,4.11,Yes,No,A,Delhi
+1168,Student_168,23,Female,Mathematics,1,96.5,97.0,97,75,5.46,Yes,No,C,Delhi
+1169,Student_169,23,Male,Biology,2,91.5,66.0,41,44,8.99,Yes,Yes,B,Delhi
+1170,Student_170,22,Male,Physics,3,98.3,83.0,88,54,9.19,No,No,A,Delhi
+1171,Student_171,24,Female,Biology,1,56.2,43.0,66,46,8.61,No,Yes,C,Mumbai
+1172,Student_172,21,Female,Physics,3,86.5,84.0,90,38,4.68,No,No,A,Pune
+1173,Student_173,19,Female,Physics,1,96.9,77.0,72,67,8.77,Yes,No,A,Pune
+1174,Student_174,20,Female,Mathematics,1,59.1,36.0,99,77,9.51,No,Yes,D,Pune
+1175,Student_175,24,Female,Chemistry,1,53.3,36.0,68,89,7.6,No,No,B,Bangalore
+1176,Student_176,22,Female,Computer Science,2,87.1,62.0,85,92,9.65,Yes,No,C,Chennai
+1177,Student_177,19,Female,Mathematics,2,78.7,52.0,92,31,8.96,No,No,B,Pune
+1178,Student_178,19,Female,Mathematics,3,92.1,48.0,75,40,8.0,No,Yes,C,Delhi
+1179,Student_179,17,Female,Chemistry,1,57.0,48.0,40,93,7.46,Yes,Yes,A,Delhi
+1180,Student_180,19,Female,Computer Science,1,89.8,65.0,91,50,6.09,No,Yes,B,Pune
+1181,Student_181,21,Female,Biology,2,60.1,58.0,54,47,4.96,No,No,F,Pune
+1182,Student_182,23,Male,Biology,1,58.2,89.0,81,93,7.63,No,Yes,C,Delhi
+1183,Student_183,22,Male,Mathematics,2,58.2,31.0,33,67,5.91,No,No,B,Bangalore
+1184,Student_184,19,Male,Computer Science,1,90.7,30.0,88,61,9.2,No,No,B,Hyderabad
+1185,Student_185,17,Female,Mathematics,3,83.3,76.0,49,40,9.96,No,Yes,D,Hyderabad
+1186,Student_186,21,Male,Physics,1,76.2,98.0,92,74,,No,No,B,Pune
+1187,Student_187,18,Male,Mathematics,1,67.9,49.0,83,62,4.54,No,Yes,C,Mumbai
+1188,Student_188,23,Female,Mathematics,4,93.9,40.0,86,70,5.73,No,No,C,Pune
+1189,Student_189,23,Male,Biology,2,69.6,31.0,70,37,4.65,No,No,A,Pune
+1190,Student_190,22,Female,Biology,1,,,32,40,7.9,No,Yes,A,Hyderabad
+1191,Student_191,23,Male,Biology,1,72.0,,35,80,8.59,Yes,Yes,C,Delhi
+1192,Student_192,19,Male,Physics,4,68.8,49.0,34,70,9.55,Yes,No,A,Pune
+1193,Student_193,17,Female,Biology,4,73.1,34.0,34,46,6.63,No,No,B,Delhi
+1194,Student_194,23,Male,Computer Science,2,65.1,66.0,83,75,9.41,No,No,D,Delhi
+1195,Student_195,23,Male,Chemistry,4,87.4,67.0,76,61,9.27,Yes,No,B,Mumbai
+1196,Student_196,18,Female,Computer Science,3,75.1,38.0,78,83,5.9,Yes,Yes,C,Delhi
+1197,Student_197,18,Female,Computer Science,4,,82.0,38,49,9.21,Yes,Yes,B,Hyderabad
+1198,Student_198,20,Male,Biology,3,95.0,73.0,49,62,6.25,No,Yes,B,Bangalore
+1199,Student_199,21,Female,Chemistry,2,69.2,53.0,90,69,5.78,No,No,A,Bangalore
+1200,Student_200,19,Male,Chemistry,2,,59.0,64,61,7.89,No,No,B,Chennai
