@@ -137,7 +137,7 @@ Provides count, mean, standard deviation, min, max, and quartiles for numerical 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/edutech-task1-dataset-analysis
+git clone https://github.com/sairamkollur/EduTech-Dataset-Analysis.git
 
 # Install dependencies
 pip install pandas numpy jupyter
@@ -153,4 +153,5 @@ python task1_analysis.py
 
 ## 👤 Author
 **Kollur Sai Ram**  
-EduTech Solutions — AI & ML Internship, 2024
+EduTech Solutions — AI & ML Internship, 2026
+
